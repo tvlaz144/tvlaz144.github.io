@@ -36,5 +36,5 @@ ForEach ($thing in $things) {
 ```r
 x <- 1:10
 y <- x * 3
-plot(x, y, col = "turquoise"
+plot(x, y, col = "turquoise")
 ```
