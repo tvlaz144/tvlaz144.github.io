@@ -30,3 +30,11 @@ ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
 }
 ```
+
+#### Testing Coding Capabilities
+
+```r
+x <- 1:10
+y <- x * 3
+plot(x, y, col = "turquoise"
+```
