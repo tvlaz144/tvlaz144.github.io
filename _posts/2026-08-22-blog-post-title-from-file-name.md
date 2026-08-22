@@ -36,7 +36,7 @@ Holofernes on his westward conquest in the eighteenth year of his reign. In the 
 with Arphaxad still happens in the twelfth year of Nebuchadnezzar's reign, it also gets resolved that same year and he
 sends Holofernes on his westward campaign in the thirteenth year of his reign. The Latin manuscripts also have some 
 differences regarding the names of specific individuals, like Bethulia's elders or the high priest at the time, which
-haven't been referenced above yet, and is a shorter manuscript overall. The [reasons for this](https://www.tertullian.org/fathers/jerome_preface_judith_e.htm) are attested to buy the man who did the Latin 
+haven't been referenced above yet, and is a shorter manuscript overall. The [reasons for this](https://www.tertullian.org/fathers/jerome_preface_judith_e.htm) are attested to by the man who did the Latin 
 translation, Jerome. In short, he states the authority of Judith was not universally accepted, but because it was written
 in Aramaic, those at the Nicene Council considered it scripture, and because he was personally asked to translate it, he
 decided to do so in one night. As a result, his translation isn't word-for-word, but conveys the overall meaning of the 
