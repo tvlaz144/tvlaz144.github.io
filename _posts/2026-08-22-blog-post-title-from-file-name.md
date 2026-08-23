@@ -84,3 +84,22 @@ when they discover their general's dead, the Israelites chase them away, defeat 
 
 ### Sources of Contention
 
+All Judith's skeptics make the same claim, which is that the book is riddled with historical inaccuracies. Chief among
+these claims is none other than the description of Nebuchadnezzar in chapter 1. When a biblical audience hears the name
+Nebuchadnezzar, their minds go right to Nebuchadnezzar II, king of the Babylonians and of biblical infamy, being featured
+prominently in the books of 2 Kings, 2 Chronicles, Ezra, Jeremiah, Ezekiel, and Daniel. The reason people claim Judith
+makes a historical error is because Nebuchadnezzar II was king of the Babylonians, not of the Assyrians, and ruled in
+Babylon, not in Nineveh. While Nebuchadnezzar was king of the Babylonians and ruled from Babylon and the Assyrians are a
+distinct nation and empire from the Babylonians, as time progressed and various nations conquered each other, the
+administrative borders for these regions were always changing.
+
+For example, Nebuchadnezzar II's father Nabopolassar led a rebellion against the Assyrians, [which eventually led to the
+Babylonians conquering the Assyrians](https://en.wikipedia.org/wiki/Medo-Babylonian_conquest_of_the_Assyrian_Empire).
+Therefore, the king of Babylon would also have dominion over the Assyrians. Additionally, when the Medo-Persian empire
+conquered the Babylonians, along with the rest of the ancient Near East, and divided their empire into satrapies, which
+are smaller administrative regions governed by a satrap who was subservient to the Persian emperor, the satrapies of
+Babylonia and Assyria were so closely linked that modern historians trying to reconstruct what Persian administrative 
+districts might have looked like consider both of them to subdivisions of the same major satrap, as seen in the map
+below.
+
+<img src="https://external-preview.redd.it/map-of-the-achaemenid-satrapies-c490bc-1817x1410-v0-3mOPQVOHXLVCr3eTA99ryDrVDwi7Gn09v5vYDA7PT18.jpeg?auto=webp&amp;s=62bb5fffaf6044a4195d909d951e552659e847fc" alt="Map of the Achaemenid Satrapies c490BC [1817x1410] : r/MapPorn"/><img width="1817" height="1410" alt="image" src="https://github.com/user-attachments/assets/6e057153-e373-4854-9e2a-7430fc8a2518" />
