@@ -102,4 +102,4 @@ Babylonia and Assyria were so closely linked that modern historians trying to re
 districts might have looked like consider both of them to subdivisions of the same major satrap, as seen in the map
 below.
 
-<img src="https://external-preview.redd.it/map-of-the-achaemenid-satrapies-c490bc-1817x1410-v0-3mOPQVOHXLVCr3eTA99ryDrVDwi7Gn09v5vYDA7PT18.jpeg?auto=webp&amp;s=62bb5fffaf6044a4195d909d951e552659e847fc" alt="Map of the Achaemenid Satrapies c490BC [1817x1410] : r/MapPorn"/><img width="1817" height="1410" alt="image" src="https://github.com/user-attachments/assets/6e057153-e373-4854-9e2a-7430fc8a2518" />
+<img width="1817" height="1410" alt="image" src="https://github.com/user-attachments/assets/6e057153-e373-4854-9e2a-7430fc8a2518" />
