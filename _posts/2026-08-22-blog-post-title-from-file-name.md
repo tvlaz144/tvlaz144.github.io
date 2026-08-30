@@ -9,7 +9,7 @@ inaccuracies and evaluate their merit. Finally, I will conclude with a theologic
 
 ---
 
-### Synopsis
+## Synopsis of Judith
 
 Judith begins in the twelfth year of the reign of king Nebuchadnezzar, who the text says reigns from Nineveh and is king
 of the Assyrians (Jdt 1:1, 7). The initial conflict of the text is with another king, Arphaxad, who rules over the Medes
@@ -30,18 +30,18 @@ general, a man named Holofernes, and instructs him to destroy and subjugate all 
 (Jdt 2:1-13). And Holofernes obliges, marching westward and destroying every nation in his path, until he comes to Judea
 (Jdt 2:14-28; 3:1-10).
 
-Note: Depending on the version of Judith read, the events differ slightly. In the Greek manuscripts, which are being 
+Note: Depending on the version of Judith read, the events differ slightly. In the Greek manuscript, which is being 
 referenced above, Nebuchadnezzar doesn't finish dealing with Arphaxad until the seventeenth year of his reign and sends
-Holofernes on his westward conquest in the eighteenth year of his reign. In the Latin manuscripts, while the conflict
+Holofernes on his westward conquest in the eighteenth year of his reign. In the Latin manuscript, while the conflict
 with Arphaxad still happens in the twelfth year of Nebuchadnezzar's reign, it also gets resolved that same year and he
-sends Holofernes on his westward campaign in the thirteenth year of his reign. The Latin manuscripts also have some 
+sends Holofernes on his westward campaign in the thirteenth year of his reign. The Latin manuscript also has some 
 differences regarding the names of specific individuals, like Bethulia's elders or the high priest at the time, which
-haven't been referenced above yet, and is a shorter manuscript overall. The [reasons for this](https://www.tertullian.org/fathers/jerome_preface_judith_e.htm) are attested to by the man who did the Latin 
-translation, Jerome. In short, he states the authority of Judith was not universally accepted, but because it was written
-in Aramaic, those at the Nicene Council considered it scripture, and because he was personally asked to translate it, he
+haven't been referenced above yet, and is a shorter manuscript overall. The [reasons for this](https://www.tertullian.org/fathers/jerome_preface_judith_e.htm)
+are attested to by the man who did the Latin translation, Jerome. In short, he states the authority of Judith was not universally accepted, 
+but because it was written in Aramaic, those at the Nicene Council considered it scripture, and because he was personally asked to translate it, he
 decided to do so in one night. As a result, his translation isn't word-for-word, but conveys the overall meaning of the 
 text, and when comparing the Aramaic manuscripts he had access to, there were inconsistencies he decided to not bother
-translating. For the purposes of this article, all citations follow the Greek manuscripts and the text will align with
+translating. For the purposes of this article, all citations follow the Greek manuscript and the text will align with
 the King James Version.
 
 Back to the narrative, the Israelites dwelling in Judea, prepared themselves for conflict by fortifying their cities,
@@ -82,7 +82,7 @@ nothing of her leaving the camp, but this time, she takes Holofernes' severed he
 when they discover their general's dead, the Israelites chase them away, defeat them, and celebrate their victory (Jdt
 13:9-20; 14:1-19; 15:1-13; 16:1-25).
 
-### Sources of Contention
+## Sources of Contention
 
 All Judith's skeptics make the same claim, which is that the book is riddled with historical inaccuracies. Chief among
 these claims is none other than the description of Nebuchadnezzar in chapter 1. When a biblical audience hears the name
@@ -105,8 +105,64 @@ below.
 <img width="1817" height="1410" alt="image" src="https://github.com/user-attachments/assets/6e057153-e373-4854-9e2a-7430fc8a2518" />
 
 This conflation of the two areas is present in the works of historical authors. For example, the historian Xenophon, in his
-biography of the famous Persian king Cyrus the Great, Cyropaedia, treats Assyria and Babylon as a single kingdom with a single
+biography of the famous Persian king Cyrus the Great, the [*Cyropaedia*](https://www.gutenberg.org/files/2085/2085-h/2085-h.htm#2H_4_0010), treats Assyria and Babylon as a single kingdom with a single
 ruler. In book two, he states:
-> Listen, then," said Cyaxares. (5) "Croesus the Lydian is coming, we hear, with 10,000 horse and more than 40,000 archers and targeteers. Artamas the governor of Greater Phrygia is bringing, they say, 8000 horse, and lancers and targeteers also, 40,000 strong. Then there is Aribaius the king of Cappadocia with 6000 horse and 30,000 archers and targeteers. And Aragdus the Arabian with 10,000 horse, a hundred chariots, and innumerable slingers. As for the Hellenes who dwell in Asia, it is not clear as yet whether they will send a following or not. But the Phrygians from the Hellespont, we are told, are mustering in the Caystrian plain under Gabaidus, 6000 horse and 40,000 targeteers. Word has been sent to the Carians, Cilicians, and Paphlagonians, but it is said they will not rise; the Lord of Assyria and Babylon will himself, I believe, bring not less than 20,000 horse, and I make no doubt as many as 200 chariots, and thousands upon thousands of men on foot; such at least has been his custom whenever he invaded us before. (2.1.5)
+> Listen, then," said Cyaxares. (5) "Croesus the Lydian is coming, we hear, with 10,000 horse and more than 40,000 archers and targeteers. Artamas the governor of Greater Phrygia is bringing, they say, 8000 horse, and lancers and targeteers also, 40,000 strong. Then there is Aribaius the king of Cappadocia with 6000 horse and 30,000 archers and targeteers. And Aragdus the Arabian with 10,000 horse, a hundred chariots, and innumerable slingers. As for the Hellenes who dwell in Asia, it is not clear as yet whether they will send a following or not. But the Phrygians from the Hellespont, we are told, are mustering in the Caystrian plain under Gabaidus, 6000 horse and 40,000 targeteers. Word has been sent to the Carians, Cilicians, and Paphlagonians, but it is said they will not rise; the Lord of Assyria and Babylon will himself, I believe, bring not less than 20,000 horse, and I make no doubt as many as 200 chariots, and thousands upon thousands of men on foot; such at least has been his custom whenever he invaded us before." (2.1.5)
 
 Notice how he treats the "Lord of Assyria and Babylon" as one person, as he uses the singular pronouns "himself" and "he" to describe him. 
+
+In book five, when Cyrus comesinto conflict with Babylon, Xenophon describes an interaction between Cyrus, the king of Babylon, and the inhabitants of Babylon. Pay 
+attention to the terms Xenophon applies to each party in the interaction. He writes:
+> (5) Forthwith Cyrus pressed on towards Babylon, his troops in battle order. But as the Assyrians did not come out to meet them, he bade Gobryas ride forward and deliver
+> this message:
+> 
+> "If the king will come out to fight for his land, I, Gobryas, will fight for him, but, if he will not defend his own country, we must yield to the conquerors." (5.3.5)
+
+Cyrus advanced towards the city of Babylon and those who did not come out to meet him, meaning those who inhabited the city, were described as Assyrians. And Cyrus declared
+that the king would not defend his land. The king would have to be the king of Babylon, as that's the land Cyrus advanced upon. Thus, the king of Babylon was king of the 
+Assyrians. 
+
+In book seven, Xenophon details Cyrus's conquest of Babylon. He does this by staging an attack on the same night of a major Babylonian holiday, as the partying and 
+intoxicated inhabitants of Babylon wouldn't be as vigilant as usual. Cyrus's plan was to lower the water level of the Euphrates river and allow his men to then enter
+Babylon by wading through the river. I'm establishing this context so that certain quotes by Xenophon will be understood in their proper context. For example, Xenophon 
+has Cyrus state:
+> (20) "My friends, the river has stepped aside for us; he offers us a passage by his own high-road into Babylon. We must take heart and enter fearlessly, remembering that those against whom we are to march this night are the very men we have conquered before, and that too when they had their allies to help them, when they were awake, alert, and sober, armed to the teeth, and in their battle order. (7.5.20)
+
+With the context for this quote established, it is evident that the current context is an invasion of Babylon, as stated explicitly in the quote above. With that context in
+mind, as well as the previous quotes, note the term used by Xenophon to describe the inhabitants of the newly conquered city:
+> (36) At the same time he issued a proclamation to the Babylonians, bidding them till the soil and pay the dues and render willing service to those under whose rule they were placed. As for his partners the Persians, and such of his allies as elected to remain with him, he gave them to understand they were to treat as subjects the captives they received. (7.5.36)
+
+Cyrus issued a proclamation to the **Babylonians**. Recall that in book five, Xenophon referred to the inhabitants of Babylon as Assyrians. Now, he refers to them as
+Babylonians. This was not the result of ignorance or Xenophon being intoxicated while composing the *Cyropaedia*, but rather a reflection of the cultural, geopolitical, and
+linguistic similarities between the Babylonians and Assyrians, causing the terms to be used interchangeably when describing the various peoples who inhabited that region.
+
+To further demonstrate this point, we can find examples of other prominent historians doing the same thing. The most famous historian who did this was Herodotus, a Greek
+historian who was born roughly fifty years earlier than Xenophon and is known for writing the seminal historical text the [*Histories*](https://www.gutenberg.org/files/2707/2707-h/2707-h.htm).
+
+In book one, when Herodotus describes the life of Cyrus the Great, he explicitly calls Babylon a city of Assyria and the seat of their monarchy. He writes:
+> 178. Cyrus, so soon as he had made subject to himself all other parts of the mainland, proceeded to attack the Assyrians. Now Assyria has doubtless many other great cities, but the most famous and the strongest, and the place where the seat of their monarchy had been established after Nineveh was destroyed, was Babylon; which was a city such as I shall say.—It lies in a great plain, and in size it is such that each face measures one hundred and twenty furlongs, 177 the shape of the whole being square; thus the furlongs of the circuit of the city amount in all to four hundred and eighty. Such is the size of the city of Babylon, and it had a magnificence greater than all other cities of which we have knowledge. First there runs round it a trench deep and broad and full of water; then a wall fifty royal cubits in thickness and two hundred cubits in height: now the royal cubit is larger by three fingers than the common cubit. 178 (1.178)
+
+This corroborates Xenophon's account, as both authors call Babylon a city of the Assyrians and the king of Babylon the king of the Assyrians. 
+
+Herodotus also expounds on the king of Babylon. **Add more Herodotus quotes**
+
+It was not just ancient Greek authors contemporary to the fifth century B.C. that conflated these two regions because of dynamic geopolitical scenarios, but the biblical
+authors themselves did this. Take a look at the screenshot below from Gesensius' Hebrew-Chaldee Lexicon, which is a text that provides and explanations for every word 
+found in the Old Testament. This screenshot is of the entry for the Hebrew word for Assyria.
+
+<img width="469" height="823" alt="image" src="https://github.com/user-attachments/assets/5e541eb7-3c28-4601-9296-15ba156b5d1b" />
+
+Gesenius notes how the Old Testament uses the word for Assyria in many different contexts and in definition b, notes how that when it was used of the Assyrian empire,
+Babylon was included under that label and makes the same connection I made earlier by referring to Herodotus referring to Babylon as Assyria. Beyond even that, Gesenius
+states in definition c that after Assyria was overthrown, Assyria was still used to describe the general area in which it ruled and the empires which took its place and
+ruled over its old territories, such as Babylon. And when you look at some of the verses Gesenius cites as examples of biblical authors using Assyria in such a context, he
+cites verses from Judith, indicating that when Judith called a Babylonian ruler the king of the Assyrians, it was doing so in a historically accurate manner. Thus, when
+critics criticize Judith for being historically inaccurate on the grounds that Nebuchadnezzar could not have been king of the Assyrians, it turns out the critic is the one
+who is historically ignorant, not Judith. 
+
+### So Problem Solved?
+
+One might think so after going to such lengths to demonstrate that Nebuchadnezzar II could be called king of the Assyrians, but the matter is not so simple. The section 
+above was dedicated to addressing the critique that Nebuchadnezzar II could not have been called king of the Assyrians, as he was called in Judith 1:7. That defense is
+made based on the assumption that the Nebuchadnezzar of Judith is the infamous Babylonian king, which is not stated anywhere in the text. In fact, Judith's context 
+suggests that this Nebuchadnezzar is **not** Nebuchadnezzar II. 
