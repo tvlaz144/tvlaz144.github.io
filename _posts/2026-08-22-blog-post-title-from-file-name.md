@@ -103,3 +103,10 @@ districts might have looked like consider both of them to subdivisions of the sa
 below.
 
 <img width="1817" height="1410" alt="image" src="https://github.com/user-attachments/assets/6e057153-e373-4854-9e2a-7430fc8a2518" />
+
+This conflation of the two areas is present in the works of historical authors. For example, the historian Xenophon, in his
+biography of the famous Persian king Cyrus the Great, Cyropaedia, treats Assyria and Babylon as a single kingdom with a single
+ruler. In book two, he states:
+> Listen, then," said Cyaxares. (5) "Croesus the Lydian is coming, we hear, with 10,000 horse and more than 40,000 archers and targeteers. Artamas the governor of Greater Phrygia is bringing, they say, 8000 horse, and lancers and targeteers also, 40,000 strong. Then there is Aribaius the king of Cappadocia with 6000 horse and 30,000 archers and targeteers. And Aragdus the Arabian with 10,000 horse, a hundred chariots, and innumerable slingers. As for the Hellenes who dwell in Asia, it is not clear as yet whether they will send a following or not. But the Phrygians from the Hellespont, we are told, are mustering in the Caystrian plain under Gabaidus, 6000 horse and 40,000 targeteers. Word has been sent to the Carians, Cilicians, and Paphlagonians, but it is said they will not rise; the Lord of Assyria and Babylon will himself, I believe, bring not less than 20,000 horse, and I make no doubt as many as 200 chariots, and thousands upon thousands of men on foot; such at least has been his custom whenever he invaded us before. (2.1.5)
+
+Notice how he treats the "Lord of Assyria and Babylon" as one person, as he uses the singular pronouns "himself" and "he" to describe him. 
