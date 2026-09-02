@@ -144,7 +144,33 @@ In book one, when Herodotus describes the life of Cyrus the Great, he explicitly
 
 This corroborates Xenophon's account, as both authors call Babylon a city of the Assyrians and the king of Babylon the king of the Assyrians. 
 
-Herodotus also expounds on the king of Babylon. **Add more Herodotus quotes**
+Herodotus also expounds on this same king of Babylon. In book 1, he states:
+> 188. This queen then is reported to have been such as I have described: and it was the son of this woman, bearing the same name as his father, Labynetos, and being ruler over the Assyrians, against whom Cyrus was marching. Now the great king makes his marches not only well furnished 192 from home with provisions for his table and with cattle, but also taking with him water from the river Choaspes, which flows by Susa, of which alone and of no other river the king drinks: and of this water of the Choaspes boiled, a very great number of waggons, four-wheeled and drawn by mules, carry a supply in silver vessels, and go with him wherever he may march at any time.
+> 189. Now when Cyrus on his way towards Babylon arrived at the river Gyndes,—of which river the springs are in the mountains of the Matienians, and it flows through the Dardanians and runs into another river, the Tigris, which flowing by the city of Opis runs out into the Erythraian Sea,—when Cyrus, I say, was endeavouring to cross this river Gyndes, which is a navigable stream, then one of his sacred white horses in high spirit and wantonness went into the river and endeavoured to cross, but the stream swept it under water and carried it off forthwith. And Cyrus was greatly moved with anger against the river for having done thus insolently, and he threatened to make it so feeble that for the future even women could cross it easily without wetting the knee. So after this threat he ceased from his march against Babylon and divided his army into two parts; and having divided it he stretched lines and marked out straight channels, 193 one hundred and eighty on each bank of the Gyndes, directed every way, and having disposed his army along them he commanded them to dig: so, as a great multitude was working, the work was completed indeed, but they spent the whole summer season at this spot working.
+
+The queen being referenced is called Nitocris by Herodotus. More of her later. For now, the focus is on the king Labynetos, who Herodotus calls the king of the Assyrians
+and "against whom Cyrus was marching." A couple sentences later, Herodotus notes that Cyrus was "on his way towards Babylon," again demonstrating how conflated the two
+terms had become during this point in time. 
+
+Furthermore, notice how Herodotus says Labynetos bears the same name as his father. Herodotus comments on the elder Labynetos twice. In the first instance, he states:
+> The Lydians however and the Medes, when they saw that it had become night instead of day, ceased from their fighting and were much more eager both of them that peace should be made between them. And they who brought about the peace between them were Syennesis the Kilikian and Labynetos the Babylonian: 89 these were they who urged also the taking of the oath by them, and they brought about an interchange of marriages; for they decided that Alyattes should give his daughter Aryenis to Astyages the son of Kyaxares, seeing that without the compulsion of a strong tie agreements are apt not to hold strongly together.
+
+In the second instance, he states:
+> 77. Thus the two armies contended with one another: and Croesus being ill satisfied with his own army in respect of number (for the army which he had when he fought was far smaller than that of Cyrus), being dissatisfied with it I say on this account, as Cyrus did not attempt to advance against him on the following day, marched back to Sardis, having it in his mind to call the Egyptians to his help according to the oath which they had taken (for he had made an alliance with Amasis king of Egypt before he made the alliance with the Lacedemonians), and to summon the Babylonians as well (for with these also an alliance had been concluded by him, Labynetos 93 being at that time ruler of the Babylonians), and moreover to send a message to the Lacedemonians bidding them appear at a fixed time: and then after he had got all these together and had gathered his own army, his design was to let the winter go by and at the coming of spring to march against the Persians.
+
+Herodotus identifies the elder Labynetos as a Babylonian himself and as ruler of the Babylonians. Thus, the younger Labynetos would be a Babylonian by descent and also the
+ruler of the Babylonians; however, Herodotus calls him the ruler of the Assyrians, again demonstrating how the terms Assyria and Babylon were interchangeable. There is
+some debate as to the identity of the elder Labynetos when consulting the Babylonians' own records of this time period, but that is not relevant for the purposes of this
+article; the focus is on Herodotus's use of the terms Assyria and Babylon.
+
+Now, Herodotus is not the only source we have for this time period and the younger Labynetos has been identified by other historians and is known in contemporary mainstream
+history as [Nabonidus](https://en.wikipedia.org/wiki/Nabonidus). His Wikipedia page explicitly calls him the last king of the Neo-Babylonian empire and the last of its
+kings before Cyrus conquered them. Details about his life and ancestry on Wikipedia are different than as described by Herodotus, indicating, more than anything else, the 
+lack of historical records from ancient civilizations still available to us today, which is why it's impossible to speak definitively about almost anything that occurred 
+thousands of years ago.
+
+Despite these differing details, there are several nuggets of information on Nabonidus's Wikipedia page that are useful for the purposes of this article. **Expound on this
+next**
 
 It was not just ancient Greek authors contemporary to the fifth century B.C. that conflated these two regions because of dynamic geopolitical scenarios, but the biblical
 authors themselves did this. Take a look at the screenshot below from Gesensius' Hebrew-Chaldee Lexicon, which is a text that provides and explanations for every word 
