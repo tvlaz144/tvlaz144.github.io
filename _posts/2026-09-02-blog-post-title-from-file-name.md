@@ -111,7 +111,7 @@ ruler. In book two, he states:
 
 Notice how he treats the "Lord of Assyria and Babylon" as one person, as he uses the singular pronouns "himself" and "he" to describe him. 
 
-In book five, when Cyrus comesinto conflict with Babylon, Xenophon describes an interaction between Cyrus, the king of Babylon, and the inhabitants of Babylon. Pay 
+In book five, when Cyrus comes into conflict with Babylon, Xenophon describes an interaction between Cyrus, the king of Babylon, and the inhabitants of Babylon. Pay 
 attention to the terms Xenophon applies to each party in the interaction. He writes:
 > (5) Forthwith Cyrus pressed on towards Babylon, his troops in battle order. But as the Assyrians did not come out to meet them, he bade Gobryas ride forward and deliver
 > this message:
