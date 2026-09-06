@@ -148,7 +148,7 @@ Herodotus also expounds on this same king of Babylon. In book 1, he states:
 > 188. This queen then is reported to have been such as I have described: and it was the son of this woman, bearing the same name as his father, Labynetos, and being ruler over the Assyrians, against whom Cyrus was marching. Now the great king makes his marches not only well furnished 192 from home with provisions for his table and with cattle, but also taking with him water from the river Choaspes, which flows by Susa, of which alone and of no other river the king drinks: and of this water of the Choaspes boiled, a very great number of waggons, four-wheeled and drawn by mules, carry a supply in silver vessels, and go with him wherever he may march at any time.
 > 189. Now when Cyrus on his way towards Babylon arrived at the river Gyndes,—of which river the springs are in the mountains of the Matienians, and it flows through the Dardanians and runs into another river, the Tigris, which flowing by the city of Opis runs out into the Erythraian Sea,—when Cyrus, I say, was endeavouring to cross this river Gyndes, which is a navigable stream, then one of his sacred white horses in high spirit and wantonness went into the river and endeavoured to cross, but the stream swept it under water and carried it off forthwith. And Cyrus was greatly moved with anger against the river for having done thus insolently, and he threatened to make it so feeble that for the future even women could cross it easily without wetting the knee. So after this threat he ceased from his march against Babylon and divided his army into two parts; and having divided it he stretched lines and marked out straight channels, 193 one hundred and eighty on each bank of the Gyndes, directed every way, and having disposed his army along them he commanded them to dig: so, as a great multitude was working, the work was completed indeed, but they spent the whole summer season at this spot working. (1.188-189)
 
-The queen being referenced is called Nitocris by Herodotus. More of her later. For now, the focus is on the king Labynetos, who Herodotus calls the king of the Assyrians
+The queen being referenced is called Nitocris by Herodotus. More of her later. For now, the focus is on the king, Labynetos, who Herodotus calls the king of the Assyrians
 and "against whom Cyrus was marching." A couple sentences later, Herodotus notes that Cyrus was "on his way towards Babylon," again demonstrating how conflated the two
 terms had become during this point in time. 
 
@@ -169,9 +169,6 @@ kings before Cyrus conquered them. Details about his life and ancestry on Wikipe
 lack of historical records from ancient civilizations still available to us today, which is why it's impossible to speak definitively about almost anything that occurred 
 thousands of years ago.
 
-Despite these differing details, there are several nuggets of information on Nabonidus's Wikipedia page that are useful for the purposes of this article. **Expound on this
-next**
-
 It was not just ancient Greek authors contemporary to the fifth century B.C. that conflated these two regions because of dynamic geopolitical scenarios, but the biblical
 authors themselves did this. Take a look at the screenshot below from Gesensius' Hebrew-Chaldee Lexicon, which is a text that provides and explanations for every word 
 found in the Old Testament. This screenshot is of the entry for the Hebrew word for Assyria.
@@ -185,6 +182,12 @@ ruled over its old territories, such as Babylon. And when you look at some of th
 cites verses from Judith, indicating that when Judith called a Babylonian ruler the king of the Assyrians, it was doing so in a historically accurate manner. Thus, when
 critics criticize Judith for being historically inaccurate on the grounds that Nebuchadnezzar could not have been king of the Assyrians, it turns out the critic is the one
 who is historically ignorant, not Judith. 
+
+### What about Nineveh?
+
+While it has been discussed how Nebuchadnezzar II could be called king of the Assyrians, it has not been discussed how he could've reigned in Nineveh, especially given
+that [Nineveh was sacked by a coalition of Medes and Babylonians in 612 B.C.](https://en.wikipedia.org/wiki/Fall_of_Nineveh) and Nebuchadnezzar II didn't become king of the
+Babylonians until [605 B.C.](https://en.wikipedia.org/wiki/Nebuchadnezzar_II), if contemporary dating is to be believed, of course. **Expound on this point next**
 
 ### So Problem Solved?
 
