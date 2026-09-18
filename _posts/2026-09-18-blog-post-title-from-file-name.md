@@ -166,8 +166,8 @@ article; the focus is on Herodotus's use of the terms Assyria and Babylon.
 Now, Herodotus is not the only source we have for this time period and the younger Labynetos has been identified by other historians and is known in contemporary mainstream
 history as [Nabonidus](https://en.wikipedia.org/wiki/Nabonidus). His Wikipedia page explicitly calls him the last king of the Neo-Babylonian empire and the last of its
 kings before Cyrus conquered them. Details about his life and ancestry on Wikipedia are different than as described by Herodotus, indicating, more than anything else, the 
-lack of historical records from ancient civilizations still available to us today, which is why it's impossible to speak definitively about almost anything that occurred 
-thousands of years ago.
+difficulty of creating cohesive narratives for ancient figures, which is why it's impossible to speak definitively about almost anything that occurred thousands of years 
+ago.
 
 It was not just ancient Greek authors contemporary to the fifth century B.C. that conflated these two regions because of dynamic geopolitical scenarios, but the biblical
 authors themselves did this. Take a look at the screenshot below from Gesensius' Hebrew-Chaldee Lexicon, which is a text that provides and explanations for every word 
