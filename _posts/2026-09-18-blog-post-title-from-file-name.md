@@ -187,7 +187,7 @@ who is historically ignorant, not Judith.
 
 While it has been discussed how Nebuchadnezzar II could be called king of the Assyrians, it has not been discussed how he could've reigned in Nineveh, especially given
 that [Nineveh was sacked by a coalition of Medes and Babylonians in 612 B.C.](https://en.wikipedia.org/wiki/Fall_of_Nineveh) and Nebuchadnezzar II didn't become king of the
-Babylonians until [605 B.C.](https://en.wikipedia.org/wiki/Nebuchadnezzar_II), if contemporary dating is to be believed, of course. **Expound on this point next**
+Babylonians until [605 B.C.](https://en.wikipedia.org/wiki/Nebuchadnezzar_II), if contemporary dating is to be believed, of course. **Expound on this point next** 
 
 ### So Problem Solved?
 
