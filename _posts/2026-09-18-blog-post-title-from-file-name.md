@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 ## A Historical and Theological Analysis of the Book of Judith
 
 Judith is a book in the Bible's Old Testament. It's considered deuterocanonical, or of a second canon, because mainstream
